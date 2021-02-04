@@ -5,6 +5,6 @@ while (repeat < 10) {
 		console.log('*change key*');
 	}
 	console.log(chorus);
-  repeat++;
+	repeat++;
 }
 console.log('Until the sun comes up!');
